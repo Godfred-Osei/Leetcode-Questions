@@ -1,0 +1,26 @@
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.exe
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.deps.json
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.json
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.dev.json
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csprojAssemblyReference.cache
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfo.cs
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\GODFRED\source\repos\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.genruntimeconfig.cache
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.exe
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.deps.json
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.json
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.runtimeconfig.dev.json
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\bin\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csprojAssemblyReference.cache
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfoInputs.cache
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.AssemblyInfo.cs
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.csproj.CoreCompileInputs.cache
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.dll
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.pdb
+C:\Users\GODFRED\Desktop\Leetcode Questions\ReverseInteger\ReverseInteger\obj\Debug\netcoreapp3.1\ReverseInteger.genruntimeconfig.cache

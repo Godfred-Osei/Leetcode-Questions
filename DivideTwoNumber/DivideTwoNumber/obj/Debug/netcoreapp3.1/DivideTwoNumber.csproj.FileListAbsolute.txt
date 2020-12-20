@@ -1,0 +1,13 @@
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.exe
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.deps.json
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.runtimeconfig.json
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.runtimeconfig.dev.json
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.dll
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\bin\Debug\netcoreapp3.1\DivideTwoNumber.pdb
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.csprojAssemblyReference.cache
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.AssemblyInfoInputs.cache
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.AssemblyInfo.cs
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.csproj.CoreCompileInputs.cache
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.dll
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.pdb
+C:\Users\GODFRED\source\repos\DivideTwoNumber\DivideTwoNumber\obj\Debug\netcoreapp3.1\DivideTwoNumber.genruntimeconfig.cache
